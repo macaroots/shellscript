@@ -1,0 +1,4 @@
+a b ls
+c d --with-decryption
+e f --with-decryption
+g h ls
